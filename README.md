@@ -1,2 +1,2 @@
-# package-quantic-visio
-Quantic Visio package
+# Package Quantic Visio
+Quantic Framework Visio module
